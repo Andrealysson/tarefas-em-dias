@@ -22,25 +22,25 @@ Este é meu primeiro projeto Flutter, desenvolvido como parte do meu aprendizado
 ## 📸 Screenshots
 
 ### Splash Screen
-![Splash](assets/screenshots/splash.png)
+![Splash](assets/screenshots/splash.jpg)
 
 ### Lista com tarefas
-![Tarefas ativas](assets/screenshots/tarefas_ativas.png)
+![Tarefas ativas](assets/screenshots/tarefas_ativas.jpg)
 
 ### Tarefa concluída
-![Tarefa concluída](assets/screenshots/tarefa_concluida.png)
+![Tarefa concluída](assets/screenshots/tarefa_concluida.jpg)
 
 ### Todas concluídas
-![Todas concluídas](assets/screenshots/todas_concluidas.png)
+![Todas concluídas](assets/screenshots/todas_concluidas.jpg)
 
 ### Calendário com marcações
-![Calendário](assets/screenshots/calendario.png)
+![Calendário](assets/screenshots/calendario.jpg)
 
 ### Lista vazia
-![Lista vazia](assets/screenshots/lista_vazia.png)
+![Lista vazia](assets/screenshots/lista_vazia.jpg)
 
 ### Tela de edição
-![Edição de tarefa](assets/screenshots/edicao_tarefa.png)
+![Edição de tarefa](assets/screenshots/edicao_tarefa.jpg)
 
 ---
 
