@@ -1,16 +1,62 @@
-# tarefas_em_dia
+# ✅ Tarefas em Dias
 
-A new Flutter project.
+Aplicativo de lista de tarefas diário feito com Flutter.  
+Organize seu dia, marque tarefas como concluídas, visualize por data no calendário e receba notificações automáticas de lembrete.  
+Este é meu primeiro projeto Flutter, desenvolvido como parte do meu aprendizado em programação.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧩 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Adicionar novas tarefas por data
+- ✏️ Editar e excluir tarefas
+- ☑️ Marcar tarefas como concluídas
+- 📅 Selecionar datas com calendário
+- 🔔 Notificações automáticas para tarefas pendentes
+- 💾 Armazenamento local com `SharedPreferences`
+- 🧠 Retenção de dados mesmo após fechar o app
+- 🎯 Interface intuitiva e 100% em português
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+### Splash Screen
+![Splash](assets/screenshots/splash.png)
+
+### Lista com tarefas
+![Tarefas ativas](assets/screenshots/tarefas_ativas.png)
+
+### Tarefa concluída
+![Tarefa concluída](assets/screenshots/tarefa_concluida.png)
+
+### Todas concluídas
+![Todas concluídas](assets/screenshots/todas_concluidas.png)
+
+### Calendário com marcações
+![Calendário](assets/screenshots/calendario.png)
+
+### Lista vazia
+![Lista vazia](assets/screenshots/lista_vazia.png)
+
+### Tela de edição
+![Edição de tarefa](assets/screenshots/edicao_tarefa.png)
+
+---
+
+## 🛠️ Tecnologias
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [SharedPreferences](https://pub.dev/packages/shared_preferences)
+- [Awesome Notifications](https://pub.dev/packages/awesome_notifications)
+- [Table Calendar](https://pub.dev/packages/table_calendar)
+
+---
+
+## 🚀 Como rodar o projeto localmente
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/Andrealysson/tarefas-em-dias.git
