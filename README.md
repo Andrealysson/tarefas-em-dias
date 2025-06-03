@@ -45,10 +45,11 @@ Este é meu primeiro projeto Flutter, desenvolvido como parte do meu aprendizado
   <img src="assets/screenshots/lista_vazia.jpg" width="300" alt="Lista vazia" />
 </p>
 
+
 <p align="center">
   <img src="assets/screenshots/edicao_tarefa.jpg" width="300" alt="Edição de tarefa" />
 </p>
-
+>>>>>>> 22380d247a98119f99a61cd78278195443906c0c
 
 ---
 
