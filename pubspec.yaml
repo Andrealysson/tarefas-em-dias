@@ -1,0 +1,46 @@
+name: tarefas_em_dia
+description: Um novo aplicativo Flutter.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.9
+  intl: ^0.20.2
+  shared_preferences: ^2.2.2
+  awesome_notifications:
+    git:
+      url: https://github.com/rafaelsetragni/awesome_notifications.git
+      ref: master
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.10
+   
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/splash_logo.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+flutter_native_splash:
+  color: "#1976D2"
+  image: assets/splash_logo.png
+  android: true
+  ios: false
+  fullscreen: true
+
+
+
