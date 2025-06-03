@@ -21,26 +21,33 @@ Este é meu primeiro projeto Flutter, desenvolvido como parte do meu aprendizado
 
 ## 📸 Screenshots
 
-### Splash Screen
-![Splash](assets/screenshots/splash.jpg)
+<p align="center">
+  <img src="assets/screenshots/splash.jpg" width="300" alt="Splash" />
+</p>
 
-### Lista com tarefas
-![Tarefas ativas](assets/screenshots/tarefas_ativas.jpg)
+<p align="center">
+  <img src="assets/screenshots/tarefas_ativas.jpg" width="300" alt="Tarefas ativas" />
+</p>
 
-### Tarefa concluída
-![Tarefa concluída](assets/screenshots/tarefa_concluida.jpg)
+<p align="center">
+  <img src="assets/screenshots/tarefa_concluida.jpg" width="300" alt="Tarefa concluída" />
+</p>
 
-### Todas concluídas
-![Todas concluídas](assets/screenshots/todas_concluidas.jpg)
+<p align="center">
+  <img src="assets/screenshots/todas_concluidas.jpg" width="300" alt="Todas concluídas" />
+</p>
 
-### Calendário com marcações
-![Calendário](assets/screenshots/calendario.jpg)
+<p align="center">
+  <img src="assets/screenshots/calendario.jpg" width="300" alt="Calendário" />
+</p>
 
-### Lista vazia
-![Lista vazia](assets/screenshots/lista_vazia.jpg)
+<p align="center">
+  <img src="assets/screenshots/lista_vazia.jpg" width="300" alt="Lista vazia" />
+</p>
 
-### Tela de edição
-![Edição de tarefa](assets/screenshots/edicao_tarefa.jpg)
+<p align="center">
+  <img src="assets/screenshots/edicao_tarefa.jpg" width="300" alt="Edição de tarefa" />
+</p>
 
 ---
 
