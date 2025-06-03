@@ -233,10 +233,7 @@ class _TaskListScreenState extends State<TaskListScreen> {
                           ),
                         ),
                       ),
-
-                      const SizedBox(width: 8), // espaço entre botão e texto
-
-                      // Agora o texto usa só o espaço que sobrar
+                      const SizedBox(width: 8),
                       Flexible(
                         child: Text(
                           _selectedDay != null

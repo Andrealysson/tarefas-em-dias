@@ -51,7 +51,7 @@ class CalendarScreen extends StatelessWidget {
                 ),
                 markerDecoration: const BoxDecoration(shape: BoxShape.circle),
                 markersAlignment: Alignment.bottomCenter,
-                markersMaxCount: 1, // só mostra uma bolinha por dia
+                markersMaxCount: 1,
               ),
               eventLoader: (day) {
                 return tasks
